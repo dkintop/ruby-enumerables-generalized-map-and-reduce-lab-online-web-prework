@@ -12,9 +12,6 @@ end
 
 
 
-
-
-#closest yet. having difficulty with boolean aspect.
 def reduce (source_array, starting_point = nil)
 
 if starting_point
